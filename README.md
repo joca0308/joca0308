@@ -1,7 +1,7 @@
 ## olá!! sou João carlos 
 ### vou mostra um pouco da construção do meu futuro
 
-- Estudante (na faculdade)
+- Estudante (faculdade)
 - Cursando análise e desenvolvimento de sistema (ADS)
 - contado: joaocarloslu11@gmail.com
 
