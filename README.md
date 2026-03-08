@@ -1,11 +1,24 @@
-## olá!! sou João carlos 
-### vou mostra um pouco da construção do meu futuro
+# Olá 👋, eu sou João Carlos
 
-- Estudante (faculdade)
-- Cursando análise e desenvolvimento de sistema (ADS)
-- contado: joaocarloslu11@gmail.com
+💻 Estudante de programação  
+📚 Aprendendo desenvolvimento de software  
+🚀 Buscando melhorar minhas habilidades todos os dias
 
-  
+## 🚀 Linguagens e Tecnologias
 
-<!--
-**joca0308/joca0308** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+<p>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" width="40"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" width="40"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" width="40"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" width="40"/>
+</p>
+
+## 📊 Estatísticas do GitHub
+
+![GitHub stats](https://github-readme-stats.vercel.app/api?username=SEU-USUARIO&show_icons=true&theme=dark)
+
+## 📫 Contato
+
+- LinkedIn: https://www.linkedin.com/in/joão-carlos-6235003b4/
+- Email: joaocarloslu112gmail.com
+
