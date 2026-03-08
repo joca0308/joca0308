@@ -1,5 +1,4 @@
 # Olá 👋, eu sou João Carlos
-## casado
 
 💻 Estudante de programação  
 
