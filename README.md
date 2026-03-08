@@ -1,6 +1,7 @@
 # Olá 👋, eu sou João Carlos
 
 💻 Estudante de programação  
+
 📚 Aprendendo análise e desenvolvimento de sistemas
 
 🚀 Buscando melhorar minhas habilidades todos os dias
