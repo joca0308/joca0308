@@ -1,7 +1,7 @@
 # Olá 👋, eu sou João Carlos
 
 💻 Estudante de programação  
-📚 Aprendendo desenvolvimento de software  
+📚 Aprendendo análise e desenvolvimento de sistemas
 🚀 Buscando melhorar minhas habilidades todos os dias
 
 ## 🚀 Linguagens e Tecnologias
@@ -17,5 +17,5 @@
 ## 📫 Contato
 
 - LinkedIn: https://www.linkedin.com/in/joão-carlos-6235003b4/
-- Email: joaocarloslu112gmail.com
+- Email: joaocarloslu11@gmail.com
 
